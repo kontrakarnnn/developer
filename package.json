@@ -24,7 +24,7 @@
         "date-diff": "^0.2.1",
         "date-fns": "^2.10.0",
         "group-array": "^1.0.0",
-        "jspdf": "^1.5.3",
+        "jspdf": "^2.3.1",
         "jspdf-autotable": "^3.2.11",
         "mdbreact": "^4.22.0",
         "moment": "^2.24.0",
